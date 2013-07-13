@@ -1,0 +1,9 @@
+icon="units/human-magi/elder-mage-ranged3.png"
+title="Magic Wars"
+version=0.0.7
+author="A Guy"
+description="Playing a powerful mage, use various spells to control the outcome of battle and lead your allies to victory."
+translate=true
+passphrase=mineandminealone
+type=scenario_mp
+email=greatgameguy@yahoo.com
